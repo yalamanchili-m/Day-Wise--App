@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+requests
+pulp        # For Linear Programming (The "Brain")
+pandas      # For data manipulation
+python-dotenv
